@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://bazarkua.github.io//sitemap.xml
+User-agent: * Disallow: Sitemap: https://bazarkua.github.io/sitemap.xml
