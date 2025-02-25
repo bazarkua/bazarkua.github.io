@@ -1,5 +1,16 @@
 # al-folio
 
+**TO DO**
+- [] change socials (links)
+- [] add my resume to cv page (use human readable version)
+- [] write about me on about me page
+- [] remove (or comment out for now) unecessary pages:
+  - blog
+  - news
+  - publications
+  - repos
+  - teaching
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
